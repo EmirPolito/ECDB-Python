@@ -36,6 +36,18 @@ ECBD-Python/
 
 A continuación se detalla de manera general lo que se aborda en cada una de las carpetas del repositorio.
 
+### clase-1
+
+Ejercicios introductorios desarrollados durante la primera sesión de la materia.
+
+- **Conceptos aplicados:** Sintaxis básica de Python, declaración de variables, tipos de datos, entrada por consola (`input()`) y operaciones matemáticas elementales.
+
+### clase-2
+
+Prácticas de la segunda sesión, aumentando gradualmente la complejidad.
+
+- **Conceptos aplicados:** Formateo de cadenas de texto (`f-strings`), operadores lógicos, estructuras condicionales simples y primeros acercamientos a colecciones de datos.
+
 ### Actividad-II
 
 Esta carpeta contiene ejercicios enfocados en la lógica de programación y estructuras de control básicas.
@@ -49,18 +61,6 @@ Contiene ejercicios más avanzados orientados a la gestión de datos estructurad
 
 - **Conceptos aplicados:** Listas, tuplas, sets, diccionarios avanzados y análisis de datos utilizando **Pandas** (`DataFrames`).
 - **Proyectos clave:** Desafío integrador de un "Sistema de Gestión de Videojuegos", donde se procesan ventas, ingresos y estadísticas generales de un catálogo mediante Pandas.
-
-### clase-1
-
-Ejercicios introductorios desarrollados durante la primera sesión de la materia.
-
-- **Conceptos aplicados:** Sintaxis básica de Python, declaración de variables, tipos de datos, entrada por consola (`input()`) y operaciones matemáticas elementales.
-
-### clase-2
-
-Prácticas de la segunda sesión, aumentando gradualmente la complejidad.
-
-- **Conceptos aplicados:** Formateo de cadenas de texto (`f-strings`), operadores lógicos, estructuras condicionales simples y primeros acercamientos a colecciones de datos.
 
 ---
 

@@ -1,7 +1,7 @@
 import pandas as pd
 
 datos = {
-    "nombre": ["Emir", "Luis", "Maria", "Karla"],
+    "nombre": ["Emir", "Luis", "Lizet", "Karla"],
     "edad": [19, 20, 25, 18],
     "calificacion": [100, 95, 90, 60]
 }
@@ -18,7 +18,20 @@ df = pd.DataFrame(datos)
 # print(df.loc[1:3])
 
 #Filtrado de datos - simple
-aprobados = df[df["calificacion"] >= 90]
-print(aprobados)
+# aprobados = df[df["calificacion"] >= 90]
+# print(aprobados)
 
-#Filtrado de datos - multiples condiciones
+# Nueva columna usando apply
+# df["Estatus"] = df["calificacion"].apply(
+#     lambda x: "Aprobado" if x >= 80
+#     else "Reprobado"
+# )
+# print(df)
+
+# Ordenar por columna
+# df_ord = df.sort_values(
+#     by="calificacion",
+#     ascending=False
+# )
+# print(df)
+

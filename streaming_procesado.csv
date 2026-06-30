@@ -1,0 +1,9 @@
+Usuario,Serie,Genero,Pais,Dispositivo,Minutos,Calificacion,Horas,NivelUsuario
+Juan,Dark,Ciencia Ficción,México,Smart TV,120,5,2.0,Usuario Frecuente
+Ana,Wednesday,Terror,México,Celular,45,4,0.75,Usuario Ocasional
+Luis,Dark,Ciencia Ficción,Colombia,Laptop,80,5,1.3333333333333333,Usuario Activo
+María,The Witcher,Fantasía,México,Tablet,60,4,1.0,Usuario Activo
+Pedro,Wednesday,Terror,Argentina,Smart TV,150,5,2.5,Usuario Frecuente
+Laura,Dark,Ciencia Ficción,Chile,Laptop,95,3,1.5833333333333333,Usuario Activo
+Carlos,Stranger Things,Ciencia Ficción,México,Celular,130,5,2.1666666666666665,Usuario Frecuente
+Sofía,The Witcher,Fantasía,Perú,Smart TV,75,4,1.25,Usuario Activo

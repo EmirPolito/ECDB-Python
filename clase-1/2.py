@@ -1,11 +1,11 @@
 #Declarar variables con tipo de dato
-edad=25
-estatura=1.75
-estado=True
-msg="Holaaa"
+edad = 19
+estatura = 1.55
+apto = True
+mensaje = "Holaa"
 
 #Mostrar las variables
 print(edad)
 print(estatura)
-print(estado)
-print(msg)
+print(apto)
+print(mensaje)

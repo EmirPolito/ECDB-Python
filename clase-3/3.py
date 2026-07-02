@@ -8,6 +8,8 @@ ventas = pd.DataFrame({
     "Precio":   [15000, 300, 15000, 800, 300]
 })
 
+pd = pd.DataFrame(ventas)
+
 
 # Muestra tabla completa
 # ventas["Total"] = (ventas["Cantidad"] * ventas["Precio"])

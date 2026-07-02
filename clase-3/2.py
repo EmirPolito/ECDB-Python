@@ -1,13 +1,15 @@
 import pandas as pd
 
-datos = {
-    "nombre": ["Emir", "Luis", "Lizet", "Karla"],
-    "edad": [19, 20, 25, 18],
-    "calificacion": [100, 95, 90, 60]
-}
+# datos = {
+#     "nombre": ["Emir", "Luis", "Lizet", "Karla"],
+#     "edad": [19, 20, 25, 18],
+#     "calificacion": [100, 95, 90, 60]
+# }
 
-#Tabla completa
-df = pd.DataFrame(datos)
+# #Tabla completa
+# df = pd.DataFrame(datos)
+
+
 
 #Columna nombre
 # print(df["nombre"])

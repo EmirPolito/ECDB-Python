@@ -1,4 +1,4 @@
 # Declarar variablee, mostrar y mostrar tipo de dato
-nombre = "juan"
+nombre = "Emir"
 print(nombre)
 print(type(nombre))

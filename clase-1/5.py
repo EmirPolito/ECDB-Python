@@ -2,13 +2,9 @@
 # edad = 19
 
 # if edad >= 18:
-#     print("Eres mayor de edad")
-#     print ("¡Ya puedes tramitar tu licencia de conducir!")
+#     print("Tienes", edad, "años ya puedes conducir.")
 # else:
-#     print("Eres menor de edad")
-#     print("No puedes tramitar tu licencia de conducir :(")
-
-
+#     print("Tienes", edad, "años no puedes conducir.")
 
 #2.- Selección multiple
 # calificacion = 100
@@ -20,12 +16,11 @@
 # else:
 #     print("Reprobado ¡Burro!")
 
-
 #3.- Selección multiple - java = swich
-calificacion=80
-match calificacion:
-    case 100: print("Excelente")
-    case 90: print("Muy bien")
-    case 80: print("Bueno")
-    case 70: print("Regular")
-    case 60: print("Reprobado")
+# calificacion= 100
+# match calificacion:
+#     case 100: print("Excelente")
+#     case 90: print("Muy bien")
+#     case 80: print("Bueno")
+#     case 70: print("Regular")
+#     case 60: print("Reprobado")

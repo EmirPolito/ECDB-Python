@@ -6,7 +6,7 @@
 > **Alumno:** Emir Polito Guevara
 > <br>
 
-> **Carrera:** TI
+> **Carrera:** Ing en TI
 > <br>
 
 ---

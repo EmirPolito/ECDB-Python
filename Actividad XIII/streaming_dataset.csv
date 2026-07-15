@@ -1,0 +1,101 @@
+IdUsuario,Edad,Pais,GeneroFavorito,HorasVisualizadas,Dispositivo,Calificacion,TipoSuscripcion,Idioma,MetodoPago,Resolucion,NivelUsuario
+1,11,México,Drama,3.16,Laptop,1,Básica,Portugués,Tarjeta de Crédito,720p,Activo
+2,5,España,Terror,11.31,Celular,2,Estándar,Portugués,Tarjeta de Regalo,4K,Frecuente
+3,6,Argentina,Terror,3.31,Smart TV,3,Básica,Inglés,Transferencia,1080p,Activo
+4,12,Estados Unidos,Terror,9.54,Smart TV,5,Estándar,Portugués,PayPal,4K,Frecuente
+5,6,Brasil,Animación,2.08,Laptop,2,Estándar,Español,Tarjeta de Crédito,1080p,Ocasional
+6,8,España,Drama,9.27,Celular,4,Premium,Inglés,Transferencia,1080p,Frecuente
+7,9,Colombia,Romance,3.26,Tablet,1,Básica,Portugués,Tarjeta de Regalo,720p,Activo
+8,11,España,Comedia,4.93,Smart TV,3,Premium,Inglés,Tarjeta de Regalo,720p,Activo
+9,5,Chile,Romance,6.59,Laptop,3,Estándar,Inglés,Tarjeta de Regalo,1080p,Activo
+10,10,Canadá,Documental,6.07,Smart TV,1,Básica,Inglés,Tarjeta de Regalo,4K,Activo
+11,7,Estados Unidos,Romance,0.59,Smart TV,3,Estándar,Portugués,PayPal,4K,Ocasional
+12,6,Brasil,Comedia,9.81,Smart TV,4,Premium,Portugués,PayPal,4K,Frecuente
+13,12,Perú,Romance,7.41,Tablet,2,Estándar,Portugués,Tarjeta de Crédito,720p,Frecuente
+14,7,Colombia,Drama,10.4,Smart TV,3,Estándar,Portugués,PayPal,4K,Frecuente
+15,10,Brasil,Acción,3.31,Celular,2,Básica,Inglés,Transferencia,720p,Activo
+16,5,Canadá,Animación,11.67,Celular,5,Básica,Inglés,PayPal,4K,Frecuente
+17,9,España,Animación,9.87,Tablet,2,Básica,Español,Tarjeta de Crédito,1080p,Frecuente
+18,5,Perú,Romance,6.37,Celular,4,Básica,Español,Tarjeta de Crédito,720p,Activo
+19,11,Perú,Comedia,2.7,Tablet,2,Premium,Español,Transferencia,4K,Ocasional
+20,7,Colombia,Ciencia Ficción,9.08,Celular,1,Básica,Español,Tarjeta de Regalo,1080p,Frecuente
+21,11,España,Ciencia Ficción,10.25,Smart TV,2,Premium,Español,Tarjeta de Crédito,1080p,Frecuente
+22,10,Argentina,Documental,8.45,Smart TV,3,Premium,Inglés,PayPal,720p,Frecuente
+23,5,Chile,Romance,2.42,Laptop,1,Básica,Español,Tarjeta de Crédito,1080p,Ocasional
+24,12,España,Acción,11.88,Tablet,4,Básica,Español,Tarjeta de Regalo,720p,Frecuente
+25,8,Colombia,Ciencia Ficción,3.59,Celular,3,Estándar,Portugués,Tarjeta de Regalo,4K,Activo
+26,6,Perú,Drama,8.54,Laptop,5,Premium,Portugués,Tarjeta de Crédito,720p,Frecuente
+27,5,México,Romance,9.3,Celular,5,Premium,Inglés,Tarjeta de Regalo,720p,Frecuente
+28,5,Canadá,Terror,2.15,Celular,3,Estándar,Inglés,Tarjeta de Crédito,720p,Ocasional
+29,7,Estados Unidos,Comedia,5.41,Smart TV,2,Premium,Inglés,PayPal,720p,Activo
+30,7,Chile,Documental,2.32,Tablet,5,Premium,Inglés,Transferencia,4K,Ocasional
+31,6,Canadá,Ciencia Ficción,6.34,Tablet,2,Estándar,Español,Tarjeta de Regalo,4K,Activo
+32,5,Canadá,Comedia,9.81,Laptop,2,Estándar,Inglés,PayPal,1080p,Frecuente
+33,6,Chile,Documental,8.88,Smart TV,2,Básica,Inglés,Transferencia,4K,Frecuente
+34,5,Chile,Animación,1.6,Smart TV,4,Estándar,Inglés,Tarjeta de Crédito,4K,Ocasional
+35,10,Brasil,Romance,6.2,Smart TV,2,Básica,Español,Tarjeta de Crédito,4K,Activo
+36,11,Argentina,Animación,2.47,Laptop,3,Estándar,Portugués,Transferencia,1080p,Ocasional
+37,8,España,Animación,0.76,Tablet,2,Premium,Portugués,Tarjeta de Crédito,720p,Ocasional
+38,6,Brasil,Drama,1.02,Tablet,5,Premium,Inglés,Tarjeta de Crédito,720p,Ocasional
+39,7,México,Romance,3.14,Tablet,1,Premium,Inglés,Tarjeta de Regalo,1080p,Activo
+40,10,Estados Unidos,Terror,2.57,Laptop,2,Básica,Inglés,PayPal,720p,Ocasional
+41,9,Canadá,Documental,8.12,Celular,1,Estándar,Inglés,Tarjeta de Regalo,720p,Frecuente
+42,8,Colombia,Acción,7.26,Smart TV,4,Premium,Inglés,Transferencia,720p,Frecuente
+43,6,Argentina,Documental,2.68,Celular,2,Básica,Inglés,PayPal,720p,Ocasional
+44,11,Brasil,Ciencia Ficción,2.38,Tablet,1,Estándar,Inglés,Tarjeta de Crédito,4K,Ocasional
+45,10,Chile,Documental,11.62,Smart TV,4,Premium,Español,Tarjeta de Crédito,720p,Frecuente
+46,8,España,Documental,11.53,Smart TV,5,Estándar,Inglés,Tarjeta de Crédito,720p,Frecuente
+47,6,Chile,Comedia,10.99,Tablet,2,Premium,Portugués,Transferencia,720p,Frecuente
+48,8,Chile,Acción,2.8,Laptop,1,Estándar,Español,Transferencia,4K,Ocasional
+49,12,México,Ciencia Ficción,10.59,Laptop,1,Premium,Portugués,Transferencia,720p,Frecuente
+50,7,Brasil,Animación,10.31,Smart TV,1,Estándar,Español,Tarjeta de Regalo,1080p,Frecuente
+51,12,México,Comedia,7.57,Smart TV,5,Básica,Portugués,Transferencia,1080p,Frecuente
+52,8,Canadá,Acción,3.33,Laptop,4,Básica,Portugués,Tarjeta de Regalo,720p,Activo
+53,8,Colombia,Terror,0.7,Smart TV,5,Básica,Español,Tarjeta de Regalo,4K,Ocasional
+54,11,Perú,Romance,10.98,Tablet,2,Básica,Inglés,Tarjeta de Crédito,1080p,Frecuente
+55,6,México,Acción,11.24,Tablet,3,Básica,Portugués,Transferencia,4K,Frecuente
+56,8,Estados Unidos,Ciencia Ficción,2.27,Tablet,2,Premium,Inglés,PayPal,1080p,Ocasional
+57,8,Estados Unidos,Drama,7.93,Celular,2,Premium,Español,Tarjeta de Crédito,720p,Frecuente
+58,10,España,Romance,8.66,Smart TV,2,Estándar,Portugués,Transferencia,720p,Frecuente
+59,11,México,Ciencia Ficción,11.92,Laptop,3,Premium,Portugués,PayPal,720p,Frecuente
+60,12,Brasil,Terror,6.33,Smart TV,5,Premium,Inglés,Transferencia,720p,Activo
+61,12,Estados Unidos,Romance,11.8,Celular,5,Estándar,Español,Tarjeta de Crédito,720p,Frecuente
+62,5,Perú,Terror,8.6,Celular,4,Estándar,Inglés,Tarjeta de Crédito,4K,Frecuente
+63,6,Colombia,Documental,11.77,Tablet,3,Estándar,Portugués,PayPal,4K,Frecuente
+64,12,Canadá,Acción,1.49,Celular,1,Premium,Inglés,Transferencia,1080p,Ocasional
+65,7,Estados Unidos,Acción,6.7,Celular,4,Premium,Inglés,Transferencia,720p,Activo
+66,11,Brasil,Drama,3.11,Smart TV,5,Premium,Portugués,Tarjeta de Regalo,1080p,Activo
+67,9,Argentina,Animación,9.63,Celular,1,Estándar,Inglés,Tarjeta de Crédito,1080p,Frecuente
+68,12,Perú,Romance,1.02,Tablet,2,Premium,Inglés,Tarjeta de Regalo,4K,Ocasional
+69,8,Perú,Drama,5.09,Tablet,3,Premium,Portugués,Tarjeta de Crédito,4K,Activo
+70,6,Estados Unidos,Animación,5.27,Tablet,4,Premium,Español,Tarjeta de Regalo,1080p,Activo
+71,11,Canadá,Ciencia Ficción,2.29,Laptop,5,Estándar,Portugués,Transferencia,4K,Ocasional
+72,5,Chile,Terror,11.43,Smart TV,5,Estándar,Español,PayPal,720p,Frecuente
+73,9,Chile,Acción,2.51,Tablet,3,Básica,Inglés,Transferencia,720p,Ocasional
+74,6,México,Romance,6.6,Laptop,1,Básica,Español,Tarjeta de Crédito,720p,Activo
+75,5,Colombia,Documental,4.01,Celular,4,Premium,Portugués,Tarjeta de Regalo,1080p,Activo
+76,5,México,Romance,6.62,Smart TV,1,Básica,Español,PayPal,720p,Activo
+77,12,Canadá,Drama,7.73,Celular,2,Básica,Portugués,Transferencia,720p,Frecuente
+78,10,Estados Unidos,Documental,0.69,Tablet,2,Estándar,Portugués,PayPal,1080p,Ocasional
+79,7,Brasil,Documental,6.22,Tablet,3,Premium,Inglés,Transferencia,1080p,Activo
+80,11,Perú,Documental,9.58,Laptop,5,Premium,Portugués,Transferencia,1080p,Frecuente
+81,8,Colombia,Animación,2.09,Laptop,4,Básica,Español,Tarjeta de Crédito,1080p,Ocasional
+82,11,Canadá,Comedia,2.97,Laptop,5,Estándar,Español,Transferencia,4K,Ocasional
+83,7,México,Terror,3.42,Tablet,5,Básica,Portugués,Transferencia,720p,Activo
+84,10,Estados Unidos,Comedia,3.11,Celular,3,Básica,Portugués,PayPal,1080p,Activo
+85,12,Argentina,Drama,10.95,Tablet,2,Estándar,Inglés,Tarjeta de Crédito,4K,Frecuente
+86,9,España,Terror,10.33,Laptop,2,Básica,Inglés,Tarjeta de Regalo,4K,Frecuente
+87,6,Brasil,Acción,4.07,Laptop,4,Estándar,Español,PayPal,4K,Activo
+88,5,Perú,Drama,9.85,Celular,4,Básica,Portugués,Tarjeta de Crédito,1080p,Frecuente
+89,12,México,Acción,11.1,Laptop,5,Premium,Portugués,Transferencia,4K,Frecuente
+90,6,Estados Unidos,Terror,6.78,Laptop,3,Premium,Inglés,Transferencia,1080p,Activo
+91,11,Colombia,Ciencia Ficción,7.93,Celular,2,Premium,Español,PayPal,720p,Frecuente
+92,10,México,Romance,4.52,Celular,1,Estándar,Español,Tarjeta de Regalo,4K,Activo
+93,10,Estados Unidos,Romance,8.16,Smart TV,2,Premium,Portugués,Tarjeta de Crédito,4K,Frecuente
+94,12,México,Terror,1.25,Tablet,2,Estándar,Inglés,Tarjeta de Crédito,1080p,Ocasional
+95,6,Brasil,Terror,9.85,Laptop,2,Premium,Español,Transferencia,1080p,Frecuente
+96,8,Brasil,Comedia,2.05,Smart TV,1,Básica,Inglés,PayPal,720p,Ocasional
+97,8,España,Drama,5.03,Tablet,4,Básica,Portugués,PayPal,4K,Activo
+98,6,Estados Unidos,Comedia,10.69,Celular,2,Estándar,Inglés,Tarjeta de Regalo,720p,Frecuente
+99,5,Canadá,Acción,11.88,Smart TV,5,Básica,Portugués,Tarjeta de Regalo,720p,Frecuente
+100,12,Estados Unidos,Animación,5.64,Laptop,4,Básica,Español,Tarjeta de Regalo,720p,Activo
